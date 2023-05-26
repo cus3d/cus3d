@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @cus3d
-- 👀 I’m interested in web development .
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on anything python related tryna see it all.
-- 📫 To reach me hit my ig @curs3dj
+- 👋 Hi, I’m J.H.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning Web Developer.
+- 📫 To reach me hit my ig @Curs3dj.
+- or just leave a message under any of my works.
 
 <!---
 cus3d/cus3d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
