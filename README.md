@@ -1,7 +1,7 @@
 - 👋 Hi, I’m J.H.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning Web Developer.
-- 📫 To reach me hit my ig @Curs3dj.
+- 👀 I’m interested in Data Analyst/ Web Development.
+- 🌱 I’m currently learning Data Analyst.
+- 📫 To reach me hit my LinkedIn .
 - or just leave a message under any of my works.
 
 <!---
