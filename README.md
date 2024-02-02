@@ -1,7 +1,7 @@
-- 👋 Hi, I’m J.H.
-- 👀 I’m interested in Data Analyst/ Web Development.
+- 👋 Hi, I’m Jordan
+- 👀 I’m interested in Data analysis/ Web Development.
 - 🌱 I’m currently learning Data Analyst.
-- 📫 To reach me hit my LinkedIn .
+- 📫 To reach me please reach out to  my LinkedIn https://www.linkedin.com/in/jordan-hayes0004/.
 - or just leave a message under any of my works.
 
 <!---
